@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 1.8
+OmegaT-Plugins: org.omegat.gui.glossary.tmg.TMGPlugin
+Created-By: Maven Jar Plugin 3.2.0
+
