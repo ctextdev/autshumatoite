@@ -1,0 +1,19 @@
+# Here you set the Languages and Locale Codes used in the Autshumato ITE.
+# The format of this file is as follows:
+# Language Name  [tab]  Locale Code  [tab]  Locale Country   [tab]  Diacritic characters (Comma separated)
+# EX: "Afrikaans	afr	ZA	à,á,â,ã,ä,è,é,ê,ë,í,î,ï,ó,ô,ö,ù,ú,û,ü,ý"
+# Remember to make a copy before editing this file and save in UTF-8 format.
+#
+# South African languages, ie the original A-ITE list of langs:
+#
+Afrikaans	AFR	ZA	à,á,â,ã,ä,è,é,ê,ë,í,î,ï,ó,ô,ö,ù,ú,û,ü,ý
+English	ENG	GB
+isiNdebele	NBL	ZA
+isiZulu	ZUL	ZA
+isiXhosa	XHO	ZA
+Sesotho	SOT	ZA
+Setswana	TSN	ZA	š,ê,ô
+Sepedi	NSO	ZA	š
+siSwati	SSW	ZA
+Tshivenḓa	VEN	ZA	ḓ,ḽ,ṋ,ṅ,ṱ
+Xitsonga	TSO	ZA
