@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 1.8
+OmegaT-Plugin: true
+Created-By: Maven Jar Plugin 3.2.0
+
+Name: org.omegat.plugin.machinetranslators.AutshumatoTranslate
+OmegaT-Plugin: MachineTranslator
+
