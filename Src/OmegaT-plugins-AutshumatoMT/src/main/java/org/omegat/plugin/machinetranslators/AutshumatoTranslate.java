@@ -45,7 +45,7 @@ import org.omegat.util.WikiGet;
 public class AutshumatoTranslate extends BaseTranslate
 {
    // Components 
-   private static final String HOST_URL = "http://mt.nwu.ac.za/services/translate/ite";
+   private static final String HOST_URL = "https://mt.nwu.ac.za/services/translate/ite";
    private static final String MARK_BEG = "{\"_status\":200,\"_message\":\"";
    private static final String MARK_END = "\"}";
    private static final Pattern RE_UNICODE = Pattern.compile("\\\\u([0-9A-Fa-f]{4})");
